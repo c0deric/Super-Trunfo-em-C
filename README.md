@@ -1,2 +1,2 @@
 # Super-Trunfo-em-C
-Super Trunfo
+Super Trunfo programado em C
